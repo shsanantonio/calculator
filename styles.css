@@ -18,6 +18,10 @@ button {
     flex-wrap: wrap;
 }
 
+.calc-container:hover {
+    cursor: pointer;
+}
+
 .input-num {
     width: 100%;
     padding: 20px 5px;
