@@ -1,5 +1,3 @@
 # Calculator
-A calculator is a device that performs arithmetic operations on numbers. This calculator can do addition, subtraction, multiplication, and division, including decimals and sign operations. User can also clear everything and go back to the first state it was in when the page loaded.
+## A basic calculator that can do addition, subtraction, multiplication and division mathematical calculations, with signed and decimal numbers as input. 
 
-
-# HTML, CSS and Javascript
